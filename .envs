@@ -1,0 +1,4 @@
+DB_HOST=db
+DB_PORT=5433
+DB_NAME=phones
+DB_USER=postgres
